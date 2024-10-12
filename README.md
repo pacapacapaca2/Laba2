@@ -12,7 +12,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/6510dc57-b82c-484f-bd6d-ecf6b219cce6" width="202"> 
     <img src="https://github.com/user-attachments/assets/a6f3a4bb-bcdf-4bb1-bc1a-8744ff309d0e" width="200">
-    <img src="https://github.com/user-attachments/assets/79405b8c-7b46-46c1-a729-f8e177c0c569" width="200"> 
+    <img src="https://private-user-images.githubusercontent.com/163531602/375938560-45691fb1-1eda-4e14-92e1-3874bbf83165.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg3MjAwMjgsIm5iZiI6MTcyODcxOTcyOCwicGF0aCI6Ii8xNjM1MzE2MDIvMzc1OTM4NTYwLTQ1NjkxZmIxLTFlZGEtNGUxNC05MmUxLTM4NzRiYmY4MzE2NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxMlQwNzU1MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzNiNTMxZDViMmQ1MDE2YjQ0ZWJjMmZjZDZhNjU5MThlOTFhZjdmNGI5NzBhNzNmZmY4ODZjMGQ1ZDdkYzMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zWeALn4hnkynXOxwz4uY8dS1sEHly-5ZjaJsGK0fXT4" width="200"> 
     <img src="https://github.com/user-attachments/assets/030819f6-b9e5-4537-b3ae-2383075f3236" width="200">
 </p> 
 Возврат на предыдущий экран осуществляется при помощи системной кнопки / бэксвайпа
