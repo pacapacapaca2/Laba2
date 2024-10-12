@@ -10,10 +10,10 @@
 4. [Экран 4](#activity4).
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7f5ed5c2-0e3d-47b3-810f-da584de1e1fa" width="200"> 
-    <img src="https://github.com/user-attachments/assets/b2b759a7-0cb5-44a4-a942-c47bea82737e" width="200">
-    <img src="https://github.com/user-attachments/assets/44c97abf-2866-4755-91ab-1dc3dbc12c48" width="200"> 
-    <img src="https://github.com/user-attachments/assets/6149cf78-ee76-4d47-88bf-6c06dc8729cb" width="200">
+    <img src="https://github.com/user-attachments/assets/6510dc57-b82c-484f-bd6d-ecf6b219cce6" width="200"> 
+    <img src="https://github.com/user-attachments/assets/a6f3a4bb-bcdf-4bb1-bc1a-8744ff309d0e" width="200">
+    <img src="https://github.com/user-attachments/assets/79405b8c-7b46-46c1-a729-f8e177c0c569" width="200"> 
+    <img src="https://github.com/user-attachments/assets/030819f6-b9e5-4537-b3ae-2383075f3236" width="200">
 </p> 
 Возврат на предыдущий экран осуществляется при помощи системной кнопки / бэксвайпа
 
@@ -33,7 +33,7 @@ _**Общее по кнопкам:**_
 - расстояние от первой кнопки до верхнего края **==** расстоянию от последней кнопки до нижнего края **== 7%**
 - кнопки выровнены по центру.
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/7f5ed5c2-0e3d-47b3-810f-da584de1e1fa" width="200"> 
+    <img src="https://github.com/user-attachments/assets/6510dc57-b82c-484f-bd6d-ecf6b219cce6" width="200"> 
 </p> 
 
 ---
@@ -47,7 +47,7 @@ _**Общее по кнопкам:**_
   - 1 занимает половину всей ширины экрана
   - 2 делят оставшуюся часть поровну между собой
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/b2b759a7-0cb5-44a4-a942-c47bea82737e" width="200">
+    <img src="https://github.com/user-attachments/assets/a6f3a4bb-bcdf-4bb1-bc1a-8744ff309d0e" width="200">
 </p> 
 
 Для задания размеров и положения использовались следующие **свойства `LinearLayout`**:
@@ -65,7 +65,7 @@ _**Общее по кнопкам:**_
 - 1 расположена в нижней части экрана
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/44c97abf-2866-4755-91ab-1dc3dbc12c48" width="200"> 
+    <img src="https://github.com/user-attachments/assets/79405b8c-7b46-46c1-a729-f8e177c0c569" width="200"> 
 </p> 
 
 Для задания размеров и положения использовались следующие **свойства `RelativeLayout`**:
@@ -91,8 +91,8 @@ _**Общее по кнопкам:**_
 - радиус скругления кнопки `24dp`
 - при нажатии на кнопку ее цвет изменяется на светло-зеленый.
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/6149cf78-ee76-4d47-88bf-6c06dc8729cb" width="200">
-    <img src="https://github.com/user-attachments/assets/dc166769-c10a-4558-a716-dcbf301fd017" width="200"> 
+    <img src="https://github.com/user-attachments/assets/030819f6-b9e5-4537-b3ae-2383075f3236" width="200">
+    <img src="https://github.com/user-attachments/assets/be6b908c-725e-41c0-b86a-35ab256a5481" width="200"> 
 </p> 
 
 Для выполнения выше указанных условий был создан файл `my_button_bg` внутри папки `drawable`:
