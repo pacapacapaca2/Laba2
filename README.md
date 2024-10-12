@@ -10,7 +10,7 @@
 4. [Экран 4](#activity4).
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/6510dc57-b82c-484f-bd6d-ecf6b219cce6" width="200"> 
+    <img src="https://github.com/user-attachments/assets/6510dc57-b82c-484f-bd6d-ecf6b219cce6" width="202"> 
     <img src="https://github.com/user-attachments/assets/a6f3a4bb-bcdf-4bb1-bc1a-8744ff309d0e" width="200">
     <img src="https://github.com/user-attachments/assets/79405b8c-7b46-46c1-a729-f8e177c0c569" width="200"> 
     <img src="https://github.com/user-attachments/assets/030819f6-b9e5-4537-b3ae-2383075f3236" width="200">
